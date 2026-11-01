@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-01",
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "threadpoolctl": "3.7.0",
+    "pytest": "9.2.0"
+  },
+  "unit_and_dataset_tests_passed": 12,
+  "fresh_environment_install": "passed",
+  "public_source_sha256": "6eea62de4a9950a20d7e41828d50b844a165ddee04b123535ccb2afc022ff64a",
+  "fresh_seed0_regression": {
+    "20ng_matlab": {
+      "method_evaluations": 27,
+      "max_prediction_array_abs_difference": 0.0,
+      "max_ap_difference_pp": 0.0,
+      "status": "passed"
+    },
+    "email_spam": {
+      "method_evaluations": 7,
+      "max_prediction_array_abs_difference": 0.0,
+      "max_ap_difference_pp": 0.0,
+      "status": "passed"
+    },
+    "email_spam_challenge_labels": {
+      "method_evaluations": 7,
+      "max_prediction_array_abs_difference": 0.0,
+      "max_ap_difference_pp": 0.0,
+      "status": "passed"
+    }
+  },
+  "frozen_grid_rerun_for_release": false,
+  "scope": "The frozen 1940-evaluation grid was previously audited. Public release retrained seed 0 at m=10 for three 20NG tasks and both email label conventions (41 evaluations).",
+  "core_solver_unchanged_ignoring_line_endings": true,
+  "saved_score_verification": {
+    "scope": "Saved-score, split and summary consistency; not independent model retraining",
+    "datasets": {
+      "20ng_matlab": {
+        "run_files": 9,
+        "method_evaluations": 27,
+        "summary_rows": 27,
+        "max_ap_error_pp": 2.842170943040401e-14
+      },
+      "email_spam": {
+        "run_files": 1,
+        "method_evaluations": 7,
+        "summary_rows": 7,
+        "max_ap_error_pp": 2.842170943040401e-14
+      },
+      "email_spam_challenge_labels": {
+        "run_files": 1,
+        "method_evaluations": 7,
+        "summary_rows": 7,
+        "max_ap_error_pp": 1.4210854715202004e-14
+      }
+    },
+    "status": "passed"
+  },
+  "status": "passed"
+}
