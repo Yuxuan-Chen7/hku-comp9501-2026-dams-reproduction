@@ -1,0 +1,173 @@
+{
+  "raw_data": {
+    "20ng": {
+      "shape": [
+        18774,
+        61188
+      ],
+      "processed_values_exact": true,
+      "category_labels_and_indices_exact": true,
+      "task_sizes": {
+        "rec_vs_sci": [
+          1976,
+          1977,
+          1978,
+          1982
+        ],
+        "comp_vs_rec": [
+          1957,
+          1956,
+          1970,
+          1955
+        ],
+        "sci_vs_comp": [
+          1959,
+          1947,
+          1966,
+          1943
+        ]
+      }
+    },
+    "email": {
+      "shape": [
+        11500,
+        206908
+      ],
+      "processed_values_exact": true,
+      "source_rows_match_original_unlabeled": true,
+      "labels_correctly_negated": true,
+      "zip_crc_ok": true
+    }
+  },
+  "saved_results": {
+    "20ng_matlab": {
+      "files": 630,
+      "method_evaluations": 1800,
+      "summary_rows": 180,
+      "manual_ap_max_abs_error_pp": 4.263256414560601e-14,
+      "recorded_max_gradient_inf": 4.95960708946086e-05
+    },
+    "email_spam": {
+      "files": 10,
+      "method_evaluations": 70,
+      "summary_rows": 7,
+      "manual_ap_max_abs_error_pp": 2.842170943040401e-14,
+      "recorded_max_gradient_inf": 4.53489307226107e-05
+    },
+    "email_spam_challenge_labels": {
+      "files": 10,
+      "method_evaluations": 70,
+      "summary_rows": 7,
+      "manual_ap_max_abs_error_pp": 2.842170943040401e-14,
+      "recorded_max_gradient_inf": 2.885040937883332e-05
+    }
+  },
+  "source_banks": {
+    "rec_vs_sci": {
+      "refitted_models": 18,
+      "max_prediction_error": 0.0,
+      "mmd_max_error": 0.0
+    },
+    "comp_vs_rec": {
+      "refitted_models": 18,
+      "max_prediction_error": 0.0,
+      "mmd_max_error": 0.0
+    },
+    "sci_vs_comp": {
+      "refitted_models": 18,
+      "max_prediction_error": 0.0,
+      "mmd_max_error": 0.0
+    },
+    "email_spam": {
+      "seed": 0,
+      "refitted_models": 18,
+      "max_prediction_error": 0.0,
+      "mmd_max_error": 0.0
+    },
+    "email_spam_challenge_labels": {
+      "seed": 0,
+      "refitted_models": 18,
+      "max_prediction_error": 0.0,
+      "mmd_max_error": 0.0
+    }
+  },
+  "saved_models": {
+    "rec_vs_sci/FastDAM": {
+      "independently_recomputed_gradient_inf": 1.255564342272919e-06,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 1310
+    },
+    "rec_vs_sci/UniverDAM": {
+      "independently_recomputed_gradient_inf": 1.8189459439099664e-05,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 1310
+    },
+    "comp_vs_rec/FastDAM": {
+      "independently_recomputed_gradient_inf": 2.0408650787118177e-06,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 1679
+    },
+    "comp_vs_rec/UniverDAM": {
+      "independently_recomputed_gradient_inf": 1.98724998590194e-05,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 1679
+    },
+    "sci_vs_comp/FastDAM": {
+      "independently_recomputed_gradient_inf": 9.107797827034858e-08,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 1081
+    },
+    "sci_vs_comp/UniverDAM": {
+      "independently_recomputed_gradient_inf": 4.077957015624634e-06,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 1081
+    },
+    "email_spam/FastDAM": {
+      "independently_recomputed_gradient_inf": 1.9102749236887817e-06,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 2707
+    },
+    "email_spam/UniverDAM": {
+      "independently_recomputed_gradient_inf": 6.860267972988443e-06,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 2707
+    },
+    "email_spam_challenge_labels/FastDAM": {
+      "independently_recomputed_gradient_inf": 1.449813078036044e-06,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 2935
+    },
+    "email_spam_challenge_labels/UniverDAM": {
+      "independently_recomputed_gradient_inf": 4.997079438764235e-07,
+      "prediction_error": 0.0,
+      "retained_unlabeled": 2935
+    }
+  },
+  "refits": {
+    "comp_vs_rec/FastDAM": {
+      "max_prediction_error": 0.0
+    },
+    "comp_vs_rec/UniverDAM": {
+      "max_prediction_error": 0.0
+    },
+    "sci_vs_comp/FastDAM": {
+      "max_prediction_error": 0.0
+    },
+    "sci_vs_comp/UniverDAM": {
+      "max_prediction_error": 0.0
+    },
+    "email_spam/FastDAM": {
+      "max_prediction_error": 0.0
+    },
+    "email_spam/UniverDAM": {
+      "max_prediction_error": 0.0
+    },
+    "email_spam_challenge_labels/FastDAM": {
+      "max_prediction_error": 0.0
+    },
+    "email_spam_challenge_labels/UniverDAM": {
+      "max_prediction_error": 0.0
+    }
+  },
+  "status": "passed"
+}
