@@ -1,4 +1,6 @@
-# DAMs paper reproduction
+# HKU DATA9501 (2026) Coursework — DAMs Reproduction
+
+This repository contains the **Part 1 paper-reproduction assignment for DATA9501 (2026)** at **The University of Hong Kong (HKU / 香港大学)**.
 
 Independent Python reproduction of **Domain Adaptation from Multiple Sources: A Domain-Dependent Regularization Approach**, Lixin Duan, Dong Xu and Ivor W. Tsang, *IEEE Transactions on Neural Networks and Learning Systems*, 23(3):504–518, 2012. [Paper DOI](https://doi.org/10.1109/TNNLS.2011.2178556).
 
@@ -23,8 +25,8 @@ Use **Python 3.12**. All computation uses the **CPU**: NumPy/SciPy and scikit-le
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/Yuxuan-Chen7/dams-reproduction.git
-cd dams-reproduction
+git clone https://github.com/Yuxuan-Chen7/hku-data9501-2026-dams-reproduction.git
+cd hku-data9501-2026-dams-reproduction
 python -m venv .venv
 $py = ".\.venv\Scripts\python.exe"
 & $py -m pip install -r requirements.txt
@@ -43,8 +45,8 @@ $py = ".\.venv\Scripts\python.exe"
 Linux/macOS setup (the experimental commands are identical after replacing `& $py` above with `python`):
 
 ```bash
-git clone https://github.com/Yuxuan-Chen7/dams-reproduction.git
-cd dams-reproduction
+git clone https://github.com/Yuxuan-Chen7/hku-data9501-2026-dams-reproduction.git
+cd hku-data9501-2026-dams-reproduction
 python3.12 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
