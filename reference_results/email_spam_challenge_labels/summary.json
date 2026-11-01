@@ -1,0 +1,65 @@
+[
+  {
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 83.25827343037157,
+    "std_ap_percent": 4.089594213278245,
+    "paper_mean": 83.01,
+    "paper_std": 3.08,
+    "difference_pp": 0.2482734303715688
+  },
+  {
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 68.5823641279726,
+    "std_ap_percent": 0.05998258689229686,
+    "paper_mean": 68.62,
+    "paper_std": 0.09,
+    "difference_pp": -0.03763587202740837
+  },
+  {
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 77.06369354277196,
+    "std_ap_percent": 1.263526825467613,
+    "paper_mean": 76.89,
+    "paper_std": 2.75,
+    "difference_pp": 0.17369354277195725
+  },
+  {
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 86.63675066506188,
+    "std_ap_percent": 3.369348764574871,
+    "paper_mean": 84.13,
+    "paper_std": 3.46,
+    "difference_pp": 2.5067506650618867
+  },
+  {
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 73.77543987155995,
+    "std_ap_percent": 1.0362110472254769,
+    "paper_mean": 74.1,
+    "paper_std": 1.36,
+    "difference_pp": -0.3245601284400408
+  },
+  {
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 86.99666965995519,
+    "std_ap_percent": 3.3700221546985687,
+    "paper_mean": 85.36,
+    "paper_std": 2.48,
+    "difference_pp": 1.6366696599551886
+  },
+  {
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 90.27151409963747,
+    "std_ap_percent": 3.593450594482348,
+    "paper_mean": 87.05,
+    "paper_std": 2.94,
+    "difference_pp": 3.2215140996374743
+  }
+]
