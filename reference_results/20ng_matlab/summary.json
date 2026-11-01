@@ -1,0 +1,1802 @@
+[
+  {
+    "task": "comp_vs_rec",
+    "m": 0,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.03062059259061,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 0.30845160999742804,
+    "mean_predict_seconds": 0.0009912600013194605
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 0,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.77846410142635,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.03285166999849025,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 0,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 97.52977098625657,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 2.8921885000017937,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 0,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.83240145894084,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 0,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.81715404509033,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 1.3284109799948056,
+    "mean_predict_seconds": 0.0009189499978674576
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 0,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 98.95627592902528,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 97.23995350367571,
+    "std_ap_percent": 1.0820632663222327,
+    "mean_fit_seconds": 0.20856553000048733,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.0317803578826,
+    "std_ap_percent": 0.006416437474589533,
+    "mean_fit_seconds": 0.3862601500062738,
+    "mean_predict_seconds": 0.0011181299953022972
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.46050666222087,
+    "std_ap_percent": 0.3314337140364868,
+    "mean_fit_seconds": 0.0007596500014187768,
+    "mean_predict_seconds": 0.006818070000736043
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.80542188953122,
+    "std_ap_percent": 0.026577259607423926,
+    "mean_fit_seconds": 0.27655574000964406,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 97.52391765015679,
+    "std_ap_percent": 0.004707881160542265,
+    "mean_fit_seconds": 2.8921885000017937,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 71.84357597295032,
+    "std_ap_percent": 7.236521534916418,
+    "mean_fit_seconds": 0.0007596500014187768,
+    "mean_predict_seconds": 0.006818070000736043
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.82745233964104,
+    "std_ap_percent": 0.004911685477446907,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.81689370941154,
+    "std_ap_percent": 0.0021480247128727553,
+    "mean_fit_seconds": 1.7226506899984089,
+    "mean_predict_seconds": 0.001168420011526905
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 2,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 98.95330193549651,
+    "std_ap_percent": 0.0026578495050126666,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 97.38364038789653,
+    "std_ap_percent": 1.0996858085036294,
+    "mean_fit_seconds": 0.20883413999981712,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.05047080799048,
+    "std_ap_percent": 0.03204298414461501,
+    "mean_fit_seconds": 0.4034626799984835,
+    "mean_predict_seconds": 0.0009206900023855269
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.58512247720714,
+    "std_ap_percent": 0.3181547327388467,
+    "mean_fit_seconds": 0.0009469699929468334,
+    "mean_predict_seconds": 0.011068789998535066
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.8393386728897,
+    "std_ap_percent": 0.022743080762951274,
+    "mean_fit_seconds": 0.27546934999409134,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 97.53053783744107,
+    "std_ap_percent": 0.013263491646600952,
+    "mean_fit_seconds": 2.8921885000017937,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 76.1592415309548,
+    "std_ap_percent": 7.256057592636867,
+    "mean_fit_seconds": 0.0009469699929468334,
+    "mean_predict_seconds": 0.011068789998535066
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.8332378324109,
+    "std_ap_percent": 0.0108971885441587,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.81933314349091,
+    "std_ap_percent": 0.0066658762290061225,
+    "mean_fit_seconds": 1.7454553899995517,
+    "mean_predict_seconds": 0.0010907900024903939
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 4,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 98.95512100232858,
+    "std_ap_percent": 0.006077495887786716,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 97.6383962630028,
+    "std_ap_percent": 0.8754810437463592,
+    "mean_fit_seconds": 0.2092019000061555,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.0613399302537,
+    "std_ap_percent": 0.034315090879789414,
+    "mean_fit_seconds": 0.3963532499998109,
+    "mean_predict_seconds": 0.0009743400034494698
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.6650417685365,
+    "std_ap_percent": 0.5128971399907146,
+    "mean_fit_seconds": 0.0008813299966277555,
+    "mean_predict_seconds": 0.015131250003469177
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.87860778002607,
+    "std_ap_percent": 0.03214187127370076,
+    "mean_fit_seconds": 0.2739764300000388,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 97.53132611767852,
+    "std_ap_percent": 0.02291041306451945,
+    "mean_fit_seconds": 2.8921885000017937,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 79.66556011697533,
+    "std_ap_percent": 6.860782391671283,
+    "mean_fit_seconds": 0.0008813299966277555,
+    "mean_predict_seconds": 0.015131250003469177
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.83385600163372,
+    "std_ap_percent": 0.019437970592133265,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.82014146696821,
+    "std_ap_percent": 0.007216085031522296,
+    "mean_fit_seconds": 1.7785711300035474,
+    "mean_predict_seconds": 0.0010478999989572912
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 6,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 98.95820848821421,
+    "std_ap_percent": 0.010988910412372117,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 97.61731492066086,
+    "std_ap_percent": 0.7237774954847251,
+    "mean_fit_seconds": 0.20638113000313751,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.07347864645527,
+    "std_ap_percent": 0.0515847160919253,
+    "mean_fit_seconds": 0.3846176600025501,
+    "mean_predict_seconds": 0.001042439995217137
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.68800371546273,
+    "std_ap_percent": 0.44328608716500917,
+    "mean_fit_seconds": 0.0011195400031283498,
+    "mean_predict_seconds": 0.024184979996061885
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.92333400478566,
+    "std_ap_percent": 0.03975873228043232,
+    "mean_fit_seconds": 0.2720370300026843,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 97.53207432732384,
+    "std_ap_percent": 0.03394933468935141,
+    "mean_fit_seconds": 2.8921885000017937,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 84.06150136688495,
+    "std_ap_percent": 3.1206537967173347,
+    "mean_fit_seconds": 0.0011195400031283498,
+    "mean_predict_seconds": 0.024184979996061885
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.83511389543156,
+    "std_ap_percent": 0.029007011917278475,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.82215922271646,
+    "std_ap_percent": 0.008906739268079058,
+    "mean_fit_seconds": 1.8402031499950682,
+    "mean_predict_seconds": 0.0010845699958736076
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 10,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 98.9591170926033,
+    "std_ap_percent": 0.020858367011772818,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 97.94108856352821,
+    "std_ap_percent": 0.5170506649012071,
+    "mean_fit_seconds": 0.2110938099998748,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.08526526682338,
+    "std_ap_percent": 0.04937920601339863,
+    "mean_fit_seconds": 0.41461105999478604,
+    "mean_predict_seconds": 0.0009959999966667964
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.6805780438082,
+    "std_ap_percent": 0.3778250653549249,
+    "mean_fit_seconds": 0.0013424000033410266,
+    "mean_predict_seconds": 0.0345453699992504
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.96541864904842,
+    "std_ap_percent": 0.04669463109984905,
+    "mean_fit_seconds": 0.275802629996906,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 97.53319996020653,
+    "std_ap_percent": 0.0408876935921264,
+    "mean_fit_seconds": 2.8921885000017937,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 88.60023983497844,
+    "std_ap_percent": 3.6406325184977866,
+    "mean_fit_seconds": 0.0013424000033410266,
+    "mean_predict_seconds": 0.0345453699992504
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.83683572466964,
+    "std_ap_percent": 0.03661832238971998,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.82369000547939,
+    "std_ap_percent": 0.009413140654853778,
+    "mean_fit_seconds": 1.7568544599955203,
+    "mean_predict_seconds": 0.0010148600034881384
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 15,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 98.95886581870226,
+    "std_ap_percent": 0.02248702620843202,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 98.20953839618602,
+    "std_ap_percent": 0.4546895334085277,
+    "mean_fit_seconds": 0.2123729200073285,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.10335128432786,
+    "std_ap_percent": 0.045694524887769,
+    "mean_fit_seconds": 0.39222542999777943,
+    "mean_predict_seconds": 0.0010532999964198097
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.81072470845925,
+    "std_ap_percent": 0.3836714198054555,
+    "mean_fit_seconds": 0.001802339998539537,
+    "mean_predict_seconds": 0.04640819000196643
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.0131104615751,
+    "std_ap_percent": 0.05666578410421247,
+    "mean_fit_seconds": 0.2748344100022223,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 97.53882482571768,
+    "std_ap_percent": 0.05250530704891144,
+    "mean_fit_seconds": 2.8921885000017937,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 91.40753275382825,
+    "std_ap_percent": 2.8518451260097377,
+    "mean_fit_seconds": 0.001802339998539537,
+    "mean_predict_seconds": 0.04640819000196643
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.84213669656472,
+    "std_ap_percent": 0.04639990422175557,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.82544406413157,
+    "std_ap_percent": 0.009559580317856687,
+    "mean_fit_seconds": 1.6975337799987755,
+    "mean_predict_seconds": 0.0011503999965498223
+  },
+  {
+    "task": "comp_vs_rec",
+    "m": 20,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 98.96234639035416,
+    "std_ap_percent": 0.025667871686326487,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 0,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.77459529359746,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.46663395000214225,
+    "mean_predict_seconds": 0.0012120499945012853
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 0,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.58630102058304,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 0.035380139999324454,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 0,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 95.43801645562327,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 3.0479138999944553,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 0,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 96.07254949302786,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 0,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.68603221596136,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 1.3630151599965756,
+    "mean_predict_seconds": 0.001221730004181154
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 0,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.41152984660167,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 94.52095416666268,
+    "std_ap_percent": 1.9607102750875303,
+    "mean_fit_seconds": 0.2164910899940878,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.79318302039187,
+    "std_ap_percent": 0.02397399397636015,
+    "mean_fit_seconds": 0.5205739600001834,
+    "mean_predict_seconds": 0.0012363200075924397
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 95.38307965530136,
+    "std_ap_percent": 0.2587701229149563,
+    "mean_fit_seconds": 0.0008117999939713627,
+    "mean_predict_seconds": 0.007918689999496565
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.6595880673021,
+    "std_ap_percent": 0.03094327910501898,
+    "mean_fit_seconds": 0.33364258999354207,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 95.4307372368188,
+    "std_ap_percent": 0.010852736177505711,
+    "mean_fit_seconds": 3.0479138999944553,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 66.6511929076454,
+    "std_ap_percent": 8.477759811502791,
+    "mean_fit_seconds": 0.0008117999939713627,
+    "mean_predict_seconds": 0.007918689999496565
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 96.06628284053579,
+    "std_ap_percent": 0.009744086381908964,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.68701296115573,
+    "std_ap_percent": 0.004211997601430321,
+    "mean_fit_seconds": 1.512410240000463,
+    "mean_predict_seconds": 0.0012267999991308898
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 2,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.40890955028216,
+    "std_ap_percent": 0.010557125184286965,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 95.05102309744564,
+    "std_ap_percent": 1.4122122617147659,
+    "mean_fit_seconds": 0.2148516999965068,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.8659882186508,
+    "std_ap_percent": 0.09336947800285271,
+    "mean_fit_seconds": 0.5296728699991945,
+    "mean_predict_seconds": 0.0013355700037209317
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 95.64148680318812,
+    "std_ap_percent": 0.3161145038854213,
+    "mean_fit_seconds": 0.0007822299958206713,
+    "mean_predict_seconds": 0.013981650001369417
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.7567479311364,
+    "std_ap_percent": 0.07336825422881213,
+    "mean_fit_seconds": 0.3266539100033697,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 95.44108101056537,
+    "std_ap_percent": 0.02763158961117149,
+    "mean_fit_seconds": 3.0479138999944553,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 72.87024782852544,
+    "std_ap_percent": 9.903399539270849,
+    "mean_fit_seconds": 0.0007822299958206713,
+    "mean_predict_seconds": 0.013981650001369417
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 96.07392791779935,
+    "std_ap_percent": 0.021787885931307066,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.69425813868004,
+    "std_ap_percent": 0.01390601254993313,
+    "mean_fit_seconds": 1.517687229992589,
+    "mean_predict_seconds": 0.0012738700024783611
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 4,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.41200935647846,
+    "std_ap_percent": 0.022845318750868267,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 94.779049080873,
+    "std_ap_percent": 2.417033292914395,
+    "mean_fit_seconds": 0.21687556999677327,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.9285990546751,
+    "std_ap_percent": 0.1076246146793046,
+    "mean_fit_seconds": 0.5578848299919628,
+    "mean_predict_seconds": 0.001275489994441159
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 95.8150768708969,
+    "std_ap_percent": 0.39692290351722664,
+    "mean_fit_seconds": 0.0008843000017805025,
+    "mean_predict_seconds": 0.018760339997243136
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.8554692839623,
+    "std_ap_percent": 0.10484433431186437,
+    "mean_fit_seconds": 0.3263551800046116,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 95.45351786165186,
+    "std_ap_percent": 0.04770045008999293,
+    "mean_fit_seconds": 3.0479138999944553,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 75.40437301833794,
+    "std_ap_percent": 10.547127153015145,
+    "mean_fit_seconds": 0.0008843000017805025,
+    "mean_predict_seconds": 0.018760339997243136
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 96.0847957444706,
+    "std_ap_percent": 0.03944513547876764,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.69887642652719,
+    "std_ap_percent": 0.016849543716078625,
+    "mean_fit_seconds": 1.3877965599967865,
+    "mean_predict_seconds": 0.0012819800002034753
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 6,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.41683920393533,
+    "std_ap_percent": 0.03365919739583006,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 95.52713102005859,
+    "std_ap_percent": 1.4854569990483117,
+    "mean_fit_seconds": 0.217521689995192,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.01646730179853,
+    "std_ap_percent": 0.14198197996127224,
+    "mean_fit_seconds": 0.5237583899928723,
+    "mean_predict_seconds": 0.0012268500082427635
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 95.90108069652524,
+    "std_ap_percent": 0.44964180990973956,
+    "mean_fit_seconds": 0.0012434899981599301,
+    "mean_predict_seconds": 0.029724330003955402
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 97.96441859470607,
+    "std_ap_percent": 0.1187526235912099,
+    "mean_fit_seconds": 0.3259969699982321,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 95.45574515036402,
+    "std_ap_percent": 0.05728376145739492,
+    "mean_fit_seconds": 3.0479138999944553,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 81.05361709400192,
+    "std_ap_percent": 5.41541663963986,
+    "mean_fit_seconds": 0.0012434899981599301,
+    "mean_predict_seconds": 0.029724330003955402
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 96.0821183443393,
+    "std_ap_percent": 0.04334303365392817,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.7065119485244,
+    "std_ap_percent": 0.01922844944363382,
+    "mean_fit_seconds": 1.5290101900027366,
+    "mean_predict_seconds": 0.0012603800016222522
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 10,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.41259156719659,
+    "std_ap_percent": 0.0312065121179778,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 96.52042937638198,
+    "std_ap_percent": 1.2401027079098108,
+    "mean_fit_seconds": 0.22020530000154395,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.08343765433447,
+    "std_ap_percent": 0.14216166064429794,
+    "mean_fit_seconds": 0.48070501000038346,
+    "mean_predict_seconds": 0.001230190001660958
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 96.1314510501928,
+    "std_ap_percent": 0.3895669767827897,
+    "mean_fit_seconds": 0.00136527999129612,
+    "mean_predict_seconds": 0.04132368000864517
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.1221061438122,
+    "std_ap_percent": 0.12842356111752956,
+    "mean_fit_seconds": 0.3262604899995495,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 95.4510400767462,
+    "std_ap_percent": 0.06034755896258237,
+    "mean_fit_seconds": 3.0479138999944553,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 87.5739853668471,
+    "std_ap_percent": 4.45174970696275,
+    "mean_fit_seconds": 0.00136527999129612,
+    "mean_predict_seconds": 0.04132368000864517
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 96.07826220781229,
+    "std_ap_percent": 0.0439439096046557,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.71318512988881,
+    "std_ap_percent": 0.0179331202289129,
+    "mean_fit_seconds": 1.337120299995877,
+    "mean_predict_seconds": 0.0011954999994486571
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 15,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.40749091576515,
+    "std_ap_percent": 0.03199157600446751,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 97.32403778979157,
+    "std_ap_percent": 0.9862757457413553,
+    "mean_fit_seconds": 0.2228353100043023,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.17582132585713,
+    "std_ap_percent": 0.14286698657018956,
+    "mean_fit_seconds": 0.42294631999684495,
+    "mean_predict_seconds": 0.0009810599964112043
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 96.33022372590462,
+    "std_ap_percent": 0.4322560959251256,
+    "mean_fit_seconds": 0.0019486899953335523,
+    "mean_predict_seconds": 0.05288306000584271
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.25609312365155,
+    "std_ap_percent": 0.11840140208734849,
+    "mean_fit_seconds": 0.3275661300023785,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 95.45306930412421,
+    "std_ap_percent": 0.05997533297783412,
+    "mean_fit_seconds": 3.0479138999944553,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 90.35778607739387,
+    "std_ap_percent": 3.8373568405769327,
+    "mean_fit_seconds": 0.0019486899953335523,
+    "mean_predict_seconds": 0.05288306000584271
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 96.08083807046954,
+    "std_ap_percent": 0.04774631977866886,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 99.72451140302312,
+    "std_ap_percent": 0.020849797580376347,
+    "mean_fit_seconds": 1.077321130008204,
+    "mean_predict_seconds": 0.0011213299905648455
+  },
+  {
+    "task": "rec_vs_sci",
+    "m": 20,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 97.41155933131891,
+    "std_ap_percent": 0.04251349583044031,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 0,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 94.67593072836381,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 0.1950939800037304,
+    "mean_predict_seconds": 0.0008818100002827122
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 0,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 91.16069644558975,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.035671490000095216,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 0,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 91.93518538454315,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 2.9370926000119653,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 0,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 91.47690838633234,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 0,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.4425220725774,
+    "std_ap_percent": 0.0,
+    "mean_fit_seconds": 0.7511632100038697,
+    "mean_predict_seconds": 0.0008880100009264425
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 0,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 93.07572055890179,
+    "std_ap_percent": 1.4979556132593925e-14,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 89.33759776022677,
+    "std_ap_percent": 2.55823946997504,
+    "mean_fit_seconds": 0.2153957200003788,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 94.79463836206192,
+    "std_ap_percent": 0.09885757527043199,
+    "mean_fit_seconds": 0.20742417000001295,
+    "mean_predict_seconds": 0.0008909600030165166
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 92.1485056860919,
+    "std_ap_percent": 0.18055355460022676,
+    "mean_fit_seconds": 0.0008087200025329366,
+    "mean_predict_seconds": 0.006631309996009804
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 91.44562595630208,
+    "std_ap_percent": 0.2358455088073057,
+    "mean_fit_seconds": 0.3288304600049742,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 91.93413419570697,
+    "std_ap_percent": 0.018513161194900353,
+    "mean_fit_seconds": 2.9370926000119653,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 64.0422606846525,
+    "std_ap_percent": 9.114759447491242,
+    "mean_fit_seconds": 0.0008087200025329366,
+    "mean_predict_seconds": 0.006631309996009804
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 91.4763800614639,
+    "std_ap_percent": 0.018348269639704092,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.47090204739716,
+    "std_ap_percent": 0.024010076475937416,
+    "mean_fit_seconds": 0.9487548500008416,
+    "mean_predict_seconds": 0.0009352999972179532
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 2,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 93.07285554949537,
+    "std_ap_percent": 0.014717982483131341,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 90.23148649684765,
+    "std_ap_percent": 2.461720767472389,
+    "mean_fit_seconds": 0.21431325000012294,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 94.88850254914855,
+    "std_ap_percent": 0.13965319899865455,
+    "mean_fit_seconds": 0.20153060999582523,
+    "mean_predict_seconds": 0.0009665800025686622
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 92.32114933369296,
+    "std_ap_percent": 0.2831839077722284,
+    "mean_fit_seconds": 0.0007468899973900988,
+    "mean_predict_seconds": 0.010827429997152648
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 91.79347660736127,
+    "std_ap_percent": 0.3587653086845419,
+    "mean_fit_seconds": 0.32562154000333976,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 91.91902408683585,
+    "std_ap_percent": 0.021813533810176956,
+    "mean_fit_seconds": 2.9370926000119653,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 71.09726296911296,
+    "std_ap_percent": 8.603353405238247,
+    "mean_fit_seconds": 0.0007468899973900988,
+    "mean_predict_seconds": 0.010827429997152648
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 91.46107340212984,
+    "std_ap_percent": 0.021915126326256255,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.49709502510748,
+    "std_ap_percent": 0.04279593811862181,
+    "mean_fit_seconds": 0.9970181400072761,
+    "mean_predict_seconds": 0.001044980000006035
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 4,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 93.05906111148728,
+    "std_ap_percent": 0.01834453079529755,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 90.3821375328744,
+    "std_ap_percent": 2.3806969996678284,
+    "mean_fit_seconds": 0.21218763999349904,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 94.95370766855434,
+    "std_ap_percent": 0.17130776250646226,
+    "mean_fit_seconds": 0.19453910999873186,
+    "mean_predict_seconds": 0.0009388500009663403
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 92.36395003926377,
+    "std_ap_percent": 0.4595128590340548,
+    "mean_fit_seconds": 0.000802879998809658,
+    "mean_predict_seconds": 0.015579310001339764
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 92.06346696293213,
+    "std_ap_percent": 0.4062291562121581,
+    "mean_fit_seconds": 0.32772827000007965,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 91.90525597256651,
+    "std_ap_percent": 0.027495790188418568,
+    "mean_fit_seconds": 2.9370926000119653,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 73.4750749230061,
+    "std_ap_percent": 7.281611247320159,
+    "mean_fit_seconds": 0.000802879998809658,
+    "mean_predict_seconds": 0.015579310001339764
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 91.44729262582133,
+    "std_ap_percent": 0.02674486665889206,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.50929690505691,
+    "std_ap_percent": 0.0485232545827738,
+    "mean_fit_seconds": 1.0626187799993203,
+    "mean_predict_seconds": 0.0009053600020706654
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 6,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 93.04584557642602,
+    "std_ap_percent": 0.022177690854919663,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 92.20425879481853,
+    "std_ap_percent": 1.5191778334453838,
+    "mean_fit_seconds": 0.21538573000289035,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 95.24335099067535,
+    "std_ap_percent": 0.2183245587775982,
+    "mean_fit_seconds": 0.19585472000180743,
+    "mean_predict_seconds": 0.0008756699942750856
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 92.77365285065902,
+    "std_ap_percent": 0.4541821359723375,
+    "mean_fit_seconds": 0.0010677300015231594,
+    "mean_predict_seconds": 0.024712059999001213
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 92.76204479183541,
+    "std_ap_percent": 0.48622996979037314,
+    "mean_fit_seconds": 0.3267449799954193,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 91.9064666194949,
+    "std_ap_percent": 0.03870949546106196,
+    "mean_fit_seconds": 2.9370926000119653,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 78.26398520476111,
+    "std_ap_percent": 7.486990451798756,
+    "mean_fit_seconds": 0.0010677300015231594,
+    "mean_predict_seconds": 0.024712059999001213
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 91.44637408647687,
+    "std_ap_percent": 0.039511439106031665,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.5828513096246,
+    "std_ap_percent": 0.052479876419694454,
+    "mean_fit_seconds": 1.0070990600041114,
+    "mean_predict_seconds": 0.0009146399999735877
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 10,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 93.04516678410299,
+    "std_ap_percent": 0.026567766834268026,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 93.68649112964295,
+    "std_ap_percent": 1.1577222361435366,
+    "mean_fit_seconds": 0.21779533999797424,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 95.5164359269057,
+    "std_ap_percent": 0.29342508324962013,
+    "mean_fit_seconds": 0.1841721300064819,
+    "mean_predict_seconds": 0.0008927500020945445
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 93.19111630306219,
+    "std_ap_percent": 0.5072582100394609,
+    "mean_fit_seconds": 0.001448729998082854,
+    "mean_predict_seconds": 0.03591711000481155
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 93.43725649380494,
+    "std_ap_percent": 0.41090958733816985,
+    "mean_fit_seconds": 0.32736834000097587,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 91.92160023625887,
+    "std_ap_percent": 0.044286892146639584,
+    "mean_fit_seconds": 2.9370926000119653,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 82.56678155412426,
+    "std_ap_percent": 5.662500710451498,
+    "mean_fit_seconds": 0.001448729998082854,
+    "mean_predict_seconds": 0.03591711000481155
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 91.46542892256028,
+    "std_ap_percent": 0.04771842182072757,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.65684818455658,
+    "std_ap_percent": 0.05673729660559453,
+    "mean_fit_seconds": 0.9668710899946745,
+    "mean_predict_seconds": 0.0009810200019273907
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 15,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 93.05491952452309,
+    "std_ap_percent": 0.024649073193569314,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "FR",
+    "n_runs": 10,
+    "mean_ap_percent": 94.95572602085807,
+    "std_ap_percent": 1.081373391104604,
+    "mean_fit_seconds": 0.2198488299996825,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "FastDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 95.71018702162209,
+    "std_ap_percent": 0.27698621844094706,
+    "mean_fit_seconds": 0.1904344099923037,
+    "mean_predict_seconds": 0.0008732199989026412
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "MCC_SVM",
+    "n_runs": 10,
+    "mean_ap_percent": 93.6152271555785,
+    "std_ap_percent": 0.518826962830987,
+    "mean_fit_seconds": 0.0018332600011490285,
+    "mean_predict_seconds": 0.04610596000275109
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "Multi_KMM",
+    "n_runs": 10,
+    "mean_ap_percent": 93.93287828628256,
+    "std_ap_percent": 0.48820984887107594,
+    "mean_fit_seconds": 0.32566851999727076,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "SVM_S",
+    "n_runs": 10,
+    "mean_ap_percent": 91.92029619119585,
+    "std_ap_percent": 0.056023325810513544,
+    "mean_fit_seconds": 2.9370926000119653,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "SVM_T",
+    "n_runs": 10,
+    "mean_ap_percent": 86.76495303679802,
+    "std_ap_percent": 4.598368155076639,
+    "mean_fit_seconds": 0.0018332600011490285,
+    "mean_predict_seconds": 0.04610596000275109
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "Uniform_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 91.46351304618051,
+    "std_ap_percent": 0.05956494299299106,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "UniverDAM",
+    "n_runs": 10,
+    "mean_ap_percent": 98.71549266827542,
+    "std_ap_percent": 0.04732463352927757,
+    "mean_fit_seconds": 0.8477073699992616,
+    "mean_predict_seconds": 0.0008918100036680698
+  },
+  {
+    "task": "sci_vs_comp",
+    "m": 20,
+    "method": "Weighted_ensemble18",
+    "n_runs": 10,
+    "mean_ap_percent": 93.05640935289146,
+    "std_ap_percent": 0.03134636060756133,
+    "mean_fit_seconds": 0.0,
+    "mean_predict_seconds": 0.0
+  }
+]
